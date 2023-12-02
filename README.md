@@ -48,7 +48,7 @@ Una vez utilizado los comandos anteriores es posible correr el backend de la apl
 
 Para poder ver la documentación de la API, favor apretar el siguiente link:
 
-https://uccl0-my.sharepoint.com/:w:/g/personal/dafne_valdivia_uc_cl/ESpA0gApmApOoSMLkB58LfsBmGHtUhwTeEteeIkAR9r6tw?e=Dvjuac
+https://docs.google.com/document/d/1mh4qgRA1lpaM2j4wcdyTNrcBt-4kFNVqQX0fXalWm5s/edit?usp=sharing
 
 Las dependencias más importantes para esta son:
 
@@ -68,3 +68,9 @@ Las dependencias más importantes para esta son:
 Estas son de suma importancia debido a que manejan la comunicación entre el backend y frontend
 Se encargan de establecer rutas seguras además de permitir pasar controles de accesos que normalmente no se podrían traspasar entre estos.
 Nuevamente, estos están en el package.json por lo que basta con correr yarn para que estos se instalen correctamente.
+
+## Deploy
+El deploy en render se realizó y se encuentra en 
+https://calendour.onrender.com
+
+Se utilizó el repo original (privado), probablemente por eso no responde.
